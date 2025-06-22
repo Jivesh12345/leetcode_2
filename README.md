@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
