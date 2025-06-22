@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/Jivesh12345/leetcode_2/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
