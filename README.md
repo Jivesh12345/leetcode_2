@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Jivesh12345/leetcode_2/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -14,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
