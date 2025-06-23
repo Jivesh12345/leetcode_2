@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
