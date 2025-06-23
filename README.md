@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0005-longest-palindromic-substring) |
 | [0065-valid-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
