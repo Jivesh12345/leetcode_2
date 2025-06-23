@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jivesh12345/leetcode_2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jivesh12345/leetcode_2/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jivesh12345/leetcode_2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Jivesh12345/leetcode_2/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0005-longest-palindromic-substring) |
 | [0065-valid-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0052-n-queens-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Jivesh12345/leetcode_2/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Jivesh12345/leetcode_2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
