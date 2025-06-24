@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Jivesh12345/leetcode_2/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0086-partition-list) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Jivesh12345/leetcode_2/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jivesh12345/leetcode_2/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
