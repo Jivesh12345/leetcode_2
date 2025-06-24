@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jivesh12345/leetcode_2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/Jivesh12345/leetcode_2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jivesh12345/leetcode_2/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jivesh12345/leetcode_2/tree/master/0074-search-a-2d-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 ## String
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Jivesh12345/leetcode_2/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
