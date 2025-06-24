@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
 | [0065-valid-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Jivesh12345/leetcode_2/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
