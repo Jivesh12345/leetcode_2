@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Jivesh12345/leetcode_2/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Jivesh12345/leetcode_2/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/Jivesh12345/leetcode_2/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Jivesh12345/leetcode_2/tree/master/0087-scramble-string) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 ## Hash Table
 |  |
