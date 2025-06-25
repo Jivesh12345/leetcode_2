@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Jivesh12345/leetcode_2/tree/master/0087-scramble-string) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Jivesh12345/leetcode_2/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Jivesh12345/leetcode_2/tree/master/0185-department-top-three-salaries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
