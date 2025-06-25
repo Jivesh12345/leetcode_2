@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Jivesh12345/leetcode_2/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Jivesh12345/leetcode_2/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
