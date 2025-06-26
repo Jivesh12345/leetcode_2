@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jivesh12345/leetcode_2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0226-invert-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Jivesh12345/leetcode_2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0226-invert-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -290,10 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0226-invert-binary-tree) |
 ## Geometry
 |  |
 | ------- |
