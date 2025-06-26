@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Jivesh12345/leetcode_2/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jivesh12345/leetcode_2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jivesh12345/leetcode_2/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
