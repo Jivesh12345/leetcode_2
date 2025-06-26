@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Jivesh12345/leetcode_2/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Jivesh12345/leetcode_2/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Jivesh12345/leetcode_2/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
