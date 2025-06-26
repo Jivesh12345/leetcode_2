@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Jivesh12345/leetcode_2/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Jivesh12345/leetcode_2/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Jivesh12345/leetcode_2/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/Jivesh12345/leetcode_2/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
 ## Depth-First Search
 |  |
 | ------- |
