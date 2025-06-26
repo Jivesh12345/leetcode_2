@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Jivesh12345/leetcode_2/tree/master/0220-contains-duplicate-iii) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
