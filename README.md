@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jivesh12345/leetcode_2/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Jivesh12345/leetcode_2/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Jivesh12345/leetcode_2/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Jivesh12345/leetcode_2/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Jivesh12345/leetcode_2/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Jivesh12345/leetcode_2/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Jivesh12345/leetcode_2/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Jivesh12345/leetcode_2/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Jivesh12345/leetcode_2/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jivesh12345/leetcode_2/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/Jivesh12345/leetcode_2/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Jivesh12345/leetcode_2/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
