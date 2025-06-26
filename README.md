@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0213-house-robber-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Jivesh12345/leetcode_2/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/Jivesh12345/leetcode_2/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0213-house-robber-ii) |
 ## Binary Search
 |  |
 | ------- |
