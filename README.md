@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Jivesh12345/leetcode_2/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Jivesh12345/leetcode_2/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Jivesh12345/leetcode_2/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jivesh12345/leetcode_2/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Jivesh12345/leetcode_2/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jivesh12345/leetcode_2/tree/master/0225-implement-stack-using-queues) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
