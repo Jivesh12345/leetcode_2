@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/Jivesh12345/leetcode_2/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0210-course-schedule-ii) |
 ## Trie
 |  |
 | ------- |
@@ -197,14 +198,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jivesh12345/leetcode_2/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0210-course-schedule-ii) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jivesh12345/leetcode_2/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jivesh12345/leetcode_2/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0210-course-schedule-ii) |
 ## Prefix Sum
 |  |
 | ------- |
