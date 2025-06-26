@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Jivesh12345/leetcode_2/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/Jivesh12345/leetcode_2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jivesh12345/leetcode_2/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
