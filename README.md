@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Jivesh12345/leetcode_2/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0304-range-sum-query-2d-immutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Jivesh12345/leetcode_2/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0304-range-sum-query-2d-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0304-range-sum-query-2d-immutable) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0304-range-sum-query-2d-immutable) |
 ## String Matching
 |  |
 | ------- |
