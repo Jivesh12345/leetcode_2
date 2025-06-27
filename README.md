@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Jivesh12345/leetcode_2/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jivesh12345/leetcode_2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Jivesh12345/leetcode_2/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
 ## String Matching
 |  |
 | ------- |
