@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Jivesh12345/leetcode_2/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Jivesh12345/leetcode_2/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0304-range-sum-query-2d-immutable) |
 ## Dynamic Programming
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Jivesh12345/leetcode_2/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Jivesh12345/leetcode_2/tree/master/0239-sliding-window-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Jivesh12345/leetcode_2/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Jivesh12345/leetcode_2/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/Jivesh12345/leetcode_2/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jivesh12345/leetcode_2/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Jivesh12345/leetcode_2/tree/master/0239-sliding-window-maximum) |
 ## Counting
 |  |
 | ------- |
@@ -331,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jivesh12345/leetcode_2/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jivesh12345/leetcode_2/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
