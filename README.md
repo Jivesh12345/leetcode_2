@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Jivesh12345/leetcode_2/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jivesh12345/leetcode_2/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0304-range-sum-query-2d-immutable) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Jivesh12345/leetcode_2/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Jivesh12345/leetcode_2/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Jivesh12345/leetcode_2/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Jivesh12345/leetcode_2/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jivesh12345/leetcode_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jivesh12345/leetcode_2/tree/master/0304-range-sum-query-2d-immutable) |
 ## Depth-First Search
 |  |
