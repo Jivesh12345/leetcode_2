@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Jivesh12345/leetcode_2/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Jivesh12345/leetcode_2/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Jivesh12345/leetcode_2/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Jivesh12345/leetcode_2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jivesh12345/leetcode_2/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jivesh12345/leetcode_2/tree/master/0074-search-a-2d-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jivesh12345/leetcode_2/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Jivesh12345/leetcode_2/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Jivesh12345/leetcode_2/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Jivesh12345/leetcode_2/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jivesh12345/leetcode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Jivesh12345/leetcode_2/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jivesh12345/leetcode_2/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Jivesh12345/leetcode_2/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jivesh12345/leetcode_2/tree/master/0208-implement-trie-prefix-tree) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jivesh12345/leetcode_2/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Jivesh12345/leetcode_2/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jivesh12345/leetcode_2/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Jivesh12345/leetcode_2/tree/master/0179-largest-number) |
