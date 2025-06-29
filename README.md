@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jivesh12345/leetcode_2/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jivesh12345/leetcode_2/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Jivesh12345/leetcode_2/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Jivesh12345/leetcode_2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jivesh12345/leetcode_2/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jivesh12345/leetcode_2/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jivesh12345/leetcode_2/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jivesh12345/leetcode_2/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Jivesh12345/leetcode_2/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Jivesh12345/leetcode_2/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Jivesh12345/leetcode_2/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Jivesh12345/leetcode_2/tree/master/0223-rectangle-area) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jivesh12345/leetcode_2/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Jivesh12345/leetcode_2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jivesh12345/leetcode_2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Jivesh12345/leetcode_2/tree/master/0085-maximal-rectangle) |
